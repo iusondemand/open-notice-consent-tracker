@@ -3,7 +3,7 @@ open-notice-consent-tracker
 
 Keep Track Of Your Consents 
 
-This is a simple and disruptive idea: we must track our consents online.
+This is a simple and disruptive idea: we need a tool to track our consents online.
 
 How many times we say YES online, and we forget the consents we give ?
 
