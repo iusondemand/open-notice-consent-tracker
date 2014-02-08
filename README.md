@@ -13,6 +13,6 @@ I've come from Milan to offer the code I'm already using for my purposes, and I 
 
 We aim to build an entire world and a list of services around it. We are conscious of this and the time will say if it's only a dream or more.
 
-The websites www.legalstxt.org will help people to save their consents, but it will possible to send the agreements and the consents by email, on remote repositories, and manage answers from companies.
+The website www.legalstxt.org will help people to save their consents, but it will possible to send the agreements and the consents by email, on remote repositories, and manage answers from companies.
 
 I'm Valentino Spataro, www.iusondemand.com , Italy  
