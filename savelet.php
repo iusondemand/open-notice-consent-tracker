@@ -119,9 +119,9 @@ list($orgname, $orgurl, $orgemail, $orgcountries,$orgcountries)=explode(",",$db)
 
 $body.=$bdy_page;
 
-include ("../header.php");
+include ("header.php");
 echo $body;
-include ("../footer.php");
+include ("footer.php");
 
  
  
