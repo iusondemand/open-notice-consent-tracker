@@ -1,7 +1,7 @@
 <?php
 #A simple page to install the bookmarklet
 
-include ("../base.php");
+include ("header.php");
 ?>
 The following is a bookmarklet, not a usual link.<p>
 <p>Move the above link over the favorities bar of your browser.<p>
@@ -49,5 +49,5 @@ document.body.removeChild(myForm);
 </dir>
 
 <?php
-include ("../fine.php");
+include ("footer.php");
 ?>
